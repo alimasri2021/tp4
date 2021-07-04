@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Controleur
+comment0.text=\r\n\ D\u00C3\u00A9crivez\ votre\ classe\ Controleur\ ici.\r\n\ \r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00C3\u00A9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pile
+comment1.target=Controleur(PileModele)
+comment2.params=
+comment2.target=void\ actualiserInterface()
+comment3.params=
+comment3.target=java.lang.Integer\ operande()
+comment4.params=
+comment4.target=void\ push()
+comment5.params=
+comment5.target=void\ add()
+comment5.text=add,\ ajoute\ les\ objets(integer)\ entre\ eux.
+comment6.params=
+comment6.target=void\ sub()
+comment6.text=sub,\ soustrait\ les\ objets(integer)\ entre\ eux.
+comment7.params=
+comment7.target=void\ mul()
+comment7.text=mul,\ multiplie\ les\ objets(integer)\ entre\ eux.
+comment8.params=
+comment8.target=void\ div()
+comment8.text=div,\ divise\ les\ objets(integer)\ entre\ eux.
+comment9.params=
+comment9.target=void\ clear()
+comment9.text=clear,\ efface\ tous\ les\ objets(integer).
+numComments=10
